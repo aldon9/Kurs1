@@ -1,0 +1,1549 @@
+{
+  "id" : "https://aldon9.github.io/Kurs1/manifests/BurgerBibliothek",
+  "type" : "Manifest",
+  "annotations" : [ ],
+  "behavior" : [ ],
+  "homepage" : [ ],
+  "items" : [ {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_e001.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_e005.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_001r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_001v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_002r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_002v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_003r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_003v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_004r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_004v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_005r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_005v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_006r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_006v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_007r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_007v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_008r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_008v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_009r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_009v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_010r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_010v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_011r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_011v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_012r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_012v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_013r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_013v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_014r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_014v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_015r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_015v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_016r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_016v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_017r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_017v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_018r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_018v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_019r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_019v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_020r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_020v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_021r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_021v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_022r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_022v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_023r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_023v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_024r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_024v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_025r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_025v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_026r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_026v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_027r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_027v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_028r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_028v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_029r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_029v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_030r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_030v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_031r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_031v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_032r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_032v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_033r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_033v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_034r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_034v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_035r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_035v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_036r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_036v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_037r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_037v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_038r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_038v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_039r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_039v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_040r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_040v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_041r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_041v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_042r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_042v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_043r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_043v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_044r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_044v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_045r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_045v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_046r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_046v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_047r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_047v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_048r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_048v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_049r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_049v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_050r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_050v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_051r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_051v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_052r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_052v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_053r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_053v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_054r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_054v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_055r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_055v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_056r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_056v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_057r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_057v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_058r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_058v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_059r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_059v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_060r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_060v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_061r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_061v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_062r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_062v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_063r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_063v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_064r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_064v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_065r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_065v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_066r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_066v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_067r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_067v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_068r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_068v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_069r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_069v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_070r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_070v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_071r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_071v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_072r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_072v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_073r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_073v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_074r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_074v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_075r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_075v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_076r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_076v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_077r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_077v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_078r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_078v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_079r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_079v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_080r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_080v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_081r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_081v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_082r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_082v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_083r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_083v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_084r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_084v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_085r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_085v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_086r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_086v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_087r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_087v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_088r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_088v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_089r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_089v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_090r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_090v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_091r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_091v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_092r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_092v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_093r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_093v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_094r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_094v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_095r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_095v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_096r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_096v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_097r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_097v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_098r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_098v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_099r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_099v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_100r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_100v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_101r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_101v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_102r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_102v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_103r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_103v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_104r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_104v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_105r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_105v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_106r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_106v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_107r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_107v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_108r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_108v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_109r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_109v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_110r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_110v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_111r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_111v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_112r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_112v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_113r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_113v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_114r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_114v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_115r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_115v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_116r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_116v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_117r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_117v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_118r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_118v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_119r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_119v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_120r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_120v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_121r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_121v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_122r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_122v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_123r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_123v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_124r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_124v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_125r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_125v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_126r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_126v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_127r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_127v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_128r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_128v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_129r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_129v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_130r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_130v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_131r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_131v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_132r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_132v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_133r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_133v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_134r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_134v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_135r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_135v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_136r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_136v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_137r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_137v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_138r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_138v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_139r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_139v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_140r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_140v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_141r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_141v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_142r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_142v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_143r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_143v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_144r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_144v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_145r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_145v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_146r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_146v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_147r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_147v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_148r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_148v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_149r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_149v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_150r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_150v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_151r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_151v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_152r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_152v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_153r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_153v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_154r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_154v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_155r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_155v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_156r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_156v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_157r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_157v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_158r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_158v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_159r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_159v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_160r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_160v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_161r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_161v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_162r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_162v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_163r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_163v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_164r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_164v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_165r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_165v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_166r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_166v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_167r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_167v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_168r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_168v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_169r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_169v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_170r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_170v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_171r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_171v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_172r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_172v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_173r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_173v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_174r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_174v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_175r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_175v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_176r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_176v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_177r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_177v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_178r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_178v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_179r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_179v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_180r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_180v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_181r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_181v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_182r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_182v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_183r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_183v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_184r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_184v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_185r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_185v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_186r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_186v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_187r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_187v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_188r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_188v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_189r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_189v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_190r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_190v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_191r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_191v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_192r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_192v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_193r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_193v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_194r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_194v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_195r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_195v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_196r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_196v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_197r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_197v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_198r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_198v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_199r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_199v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_200r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_200v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_201r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_201v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_202r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_202v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_203r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_203v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_204r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_204v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_205r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_205v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_206r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_206v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_207r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_207v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_208r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_208v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_209r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_209v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_e006.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_e003.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_e002.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_e004.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_e007.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_e008.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_MassE.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_ProfilE.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_ProfilS.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-0003_ProfilSG.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-frag0003_e001.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-frag0003_e005.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-frag0003_e005ar.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-frag0003_e005av.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-frag0003_000_001r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-frag0003_000_001v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-frag0003_000_002r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-frag0003_000_002v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-frag0003_000_003r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-frag0003_000_003v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-frag0003_999_001r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-frag0003_999_001v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-frag0003_999_002r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-frag0003_999_002v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-frag0003_999_003r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-frag0003_999_003v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-frag0003_e006ar.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-frag0003_e006av.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-frag0003_e006.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-frag0003_e004.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-frag0003_002a.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-frag0003_001a.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-frag0003_Falz1r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-frag0003_Falz1v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-frag0003_Falz2r.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-frag0003_Falz2v.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-frag0003_MassE.json",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://e-codices.ch/metadata/iiif/bbb-0003/canvas/bbb-frag0003_ProfilE.json",
+    "type" : "Canvas"
+  } ],
+  "label" : {
+    "none" : [ "Bern, Burgerbibliothek, Cod. 3" ]
+  },
+  "logo" : [ ],
+  "metadata" : [ {
+    "label" : {
+      "none" : [ "Location" ]
+    },
+    "value" : {
+      "none" : [ "Bern" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Collection Name" ]
+    },
+    "value" : {
+      "none" : [ "Burgerbibliothek" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Shelfmark" ]
+    },
+    "value" : {
+      "none" : [ "Cod. 3" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Document Type" ]
+    },
+    "value" : {
+      "none" : [ "Manuscript" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "DOI" ]
+    },
+    "value" : {
+      "none" : [ "10.5076/e-codices-bbb-0003" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Title (English)" ]
+    },
+    "value" : {
+      "none" : [ "Biblia latina (Vulgata), Part 1: Genesis to Psalms" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Material" ]
+    },
+    "value" : {
+      "none" : [ "Parchment" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Place of Origin (English)" ]
+    },
+    "value" : {
+      "none" : [ "Tours, Abbey St. Martin" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Date of Origin (English)" ]
+    },
+    "value" : {
+      "none" : [ "around 820-830" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Number of Pages" ]
+    },
+    "value" : {
+      "none" : [ "209" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Dimensions" ]
+    },
+    "value" : {
+      "none" : [ "46 x 35 cm" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Online Since" ]
+    },
+    "value" : {
+      "none" : [ "2013-10-07" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Summary (English)" ]
+    },
+    "value" : {
+      "none" : [ "Latin Bible, designed as a pandect (i.e. in one volume), following the recension of Alcuin of York. Several copies of these Alcuin Bibles, manufactured in the scriptorium of St. Martin of Tours, have survived; with their finely graded hierarchy of scripts and harmonious proportions, they are considered monuments of Carolingian book production." ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Persons" ]
+    },
+    "value" : {
+      "none" : [ "Author: Augustinus, Aurelius; Former possessor: Bongars, Jacques; Former possessor: Gravisset, Jakob von" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Century" ]
+    },
+    "value" : {
+      "none" : [ "9th century" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Liturgica christiana" ]
+    },
+    "value" : {
+      "none" : [ "Bible" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Text Language" ]
+    },
+    "value" : {
+      "none" : [ "Latin" ]
+    }
+  } ],
+  "motivation" : null,
+  "navDate" : null,
+  "provider" : [ {
+    "id" : "http://example.org/provider",
+    "type" : "Agent"
+  } ],
+  "partOf" : [ {
+    "id" : "https://www.e-codices.ch/en/list/bbb",
+    "type" : "ContentResource"
+  } ],
+  "posterCanvas" : null,
+  "accompanyingCanvas" : null,
+  "placeholderCanvas" : null,
+  "rendering" : [ ],
+  "requiredStatement" : {
+    "label" : {
+      "none" : [ "Attribution" ]
+    },
+    "value" : {
+      "none" : [ "e-codices - Virtual Manuscript Library of Switzerland" ]
+    }
+  },
+  "rights" : "http://creativecommons.org/licenses/by-nc/4.0/",
+  "seeAlso" : [ {
+    "id" : "https://e-codices.ch/xml/tei_published/bbb-0003.xml",
+    "type" : "ContentResource"
+  } ],
+  "service" : [ {
+    "@id" : "https://e-codices.ch/webmention/receive",
+    "@type" : "Service",
+    "@context" : "https://www.w3.org/ns/webmention",
+    "profile" : "https://www.w3.org/ns/webmention",
+    "label" : "e-codices Webmention Service"
+  } ],
+  "services" : [ ],
+  "start" : null,
+  "structures" : [ ],
+  "summary" : {
+    "en" : [ "Latin Bible, designed as a pandect (i.e. in one volume), following the recension of Alcuin of York. Several copies of these Alcuin Bibles, manufactured in the scriptorium of St. Martin of Tours, have survived; with their finely graded hierarchy of scripts and harmonious proportions, they are considered monuments of Carolingian book production." ]
+  },
+  "thumbnail" : [ ],
+  "viewingDirection" : "left-to-right",
+  "@context" : "http://iiif.io/api/presentation/3/context.json"
+}
