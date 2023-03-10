@@ -41,5 +41,11 @@
       "none" : [ "[1. Zeppelinflug über Zürich]" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://aldon9.github.io/Kurs1/manifests/ZeppelinManifest",
+    "label" : {
+      "none" : [ "[1. Zeppelinflug über Zürich]" ]
+    },
+    "type" : "Manifest"
   } ]
 }
