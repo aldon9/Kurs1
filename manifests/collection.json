@@ -1,0 +1,15 @@
+{
+  "id" : "https://aldon9.github.io/Kurs1/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in aldon9/Kurs1 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://aldon9.github.io/Kurs1/manifests/manifest.wunder.json",
+    "label" : {
+      "en" : [ "Wunder der Vererbung / von Fritz Bolle." ]
+    },
+    "type" : "Manifest"
+  } ]
+}
