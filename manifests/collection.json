@@ -17,5 +17,11 @@
       "en" : [ "Wunder der Vererbung / von Fritz Bolle." ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://aldon9.github.io/Kurs1/manifests/BurgerBibliothek.json",
+    "label" : {
+      "none" : [ "Bern, Burgerbibliothek, Cod. 3" ]
+    },
+    "type" : "Manifest"
   } ]
 }
