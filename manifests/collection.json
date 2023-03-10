@@ -23,5 +23,11 @@
       "none" : [ "Bern, Burgerbibliothek, Cod. 3" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://aldon9.github.io/Kurs1/manifests/BurgerBibliothek",
+    "label" : {
+      "none" : [ "Bern, Burgerbibliothek, Cod. 3" ]
+    },
+    "type" : "Manifest"
   } ]
 }
